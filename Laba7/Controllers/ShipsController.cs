@@ -15,30 +15,30 @@ namespace Laba7.Controllers
         public ViewResult Index(string searchString)
         {
             
-            var flights = from f in db.Ships
+            var ships = from f in db.Ships
                            select f;
             if (!string.IsNullOrEmpty(searchString))
             {
                 int num = int.Parse(searchString);
-                flights = flights.Where(s => s.Num_seats.Equals(num));
+                ships = ships.Where(s => s.Num_seats.Equals(num));
             }
 
-            return View(flights.ToList());
+            return View(ships.ToList());
         }
 
-        // GET: Flights/Details/5
+        // GET: Ships/Details/5
         public ActionResult Details(int? id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Ships flight = db.Ships.Find(id);
-            if (flight == null)
+            Ships ships = db.Ships.Find(id);
+            if (ships == null)
             {
                 return HttpNotFound();
             }
-            return View(flight);
+            return View(ships);
         }
 
         // GET: Flights/Create
@@ -52,45 +52,45 @@ namespace Laba7.Controllers
         // сведения см. в разделе https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,Date,Route,Num_seats")] Ships flight)
+        public ActionResult Create([Bind(Include = "Id,Date,Route,Num_seats")] Ships ships)
         {
             if (ModelState.IsValid)
             {
-                db.Ships.Add(flight);
+                db.Ships.Add(ships);
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
 
-            return View(flight);
+            return View(ships);
         }
 
-        // GET: Flights/Edit/5
+        // GET: Ships/Edit/5
         public ActionResult Edit(int? id)
         {
             if (id == null)
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Ships flight = db.Ships.Find(id);
-            if (flight == null)
+            Ships ships = db.Ships.Find(id);
+            if (ships == null)
             {
                 return HttpNotFound();
             }
-            return View(flight);
+            return View(ships);
         }
 
         
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Id,Date,Route,Num_seats")] Ships flight)
+        public ActionResult Edit([Bind(Include = "Id,Date,Route,Num_seats")] Ships ships)
         {
             if (ModelState.IsValid)
             {
-                db.Entry(flight).State = EntityState.Modified;
+                db.Entry(ships).State = EntityState.Modified;
                 db.SaveChanges();
                 return RedirectToAction("Index");
             }
-            return View(flight);
+            return View(ships);
         }
 
         // GET: Flights/Delete/5
@@ -100,12 +100,12 @@ namespace Laba7.Controllers
             {
                 return new HttpStatusCodeResult(HttpStatusCode.BadRequest);
             }
-            Ships flight = db.Ships.Find(id);
-            if (flight == null)
+            Ships ships = db.Ships.Find(id);
+            if (ships == null)
             {
                 return HttpNotFound();
             }
-            return View(flight);
+            return View(ships);
         }
 
         // POST: Flights/Delete/5
@@ -113,8 +113,8 @@ namespace Laba7.Controllers
         [ValidateAntiForgeryToken]
         public ActionResult DeleteConfirmed(int id)
         {
-            Ships flight = db.Ships.Find(id);
-            db.Ships.Remove(flight);
+            Ships ships = db.Ships.Find(id);
+            db.Ships.Remove(ships);
             db.SaveChanges();
             return RedirectToAction("Index");
         }

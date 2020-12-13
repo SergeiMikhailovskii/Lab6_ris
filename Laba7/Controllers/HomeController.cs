@@ -10,8 +10,8 @@ namespace Laba7.Controllers
 
         public ActionResult Index()
         {
-            IEnumerable<Ships> flights = db.Ships;
-            ViewBag.Flights = flights;
+            IEnumerable<Ships> ships = db.Ships;
+            ViewBag.Ships = ships;
             return View();
         }
     }
