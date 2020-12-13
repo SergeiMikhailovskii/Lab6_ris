@@ -1,0 +1,270 @@
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\Laba7.dll.config
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\Laba7.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\Laba7.pdb
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\csc.exe
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\csc.exe.config
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\csc.rsp
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\csi.exe
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\csi.exe.config
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\csi.rsp
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.AppContext.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Console.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.IO.Compression.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Net.Http.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.ValueTuple.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\vbc.exe
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\vbc.exe.config
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\vbc.rsp
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\VBCSCompiler.exe
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\Antlr3.Runtime.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\EntityFramework.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\EntityFramework.SqlServer.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\Newtonsoft.Json.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.Helpers.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.Mvc.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.Optimization.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.Razor.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.WebPages.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.WebPages.Razor.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\WebGrease.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\EntityFramework.xml
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\EntityFramework.SqlServer.xml
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.Helpers.xml
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.Mvc.xml
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.Optimization.xml
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.Razor.xml
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.WebPages.xml
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\System.Web.WebPages.Razor.xml
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\Newtonsoft.Json.xml
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\Antlr3.Runtime.pdb
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\ru\System.Web.Helpers.resources.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\ru\System.Web.Mvc.resources.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\ru\System.Web.Optimization.resources.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\ru\System.Web.Razor.resources.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\ru\System.Web.WebPages.resources.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\ru\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\bin\ru\System.Web.WebPages.Razor.resources.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\obj\Debug\Laba7.csprojAssemblyReference.cache
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\obj\Debug\Laba7.csproj.CoreCompileInputs.cache
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\obj\Debug\Laba7.csproj.CopyComplete
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\obj\Debug\Laba7.dll
+C:\Users\Xiaomi\source\repos\Laba7\Laba7\obj\Debug\Laba7.pdb
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\Laba7.dll.config
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\Laba7.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\Laba7.pdb
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\csc.exe
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\csc.exe.config
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\csc.rsp
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\csi.exe
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\csi.exe.config
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\csi.rsp
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.AppContext.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Collections.Immutable.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Console.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Globalization.Calendars.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.IO.Compression.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.IO.FileSystem.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Net.Http.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Net.Sockets.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Reflection.Metadata.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.ValueTuple.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Xml.XPath.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\vbc.exe
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\vbc.exe.config
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\vbc.rsp
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\VBCSCompiler.exe
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\roslyn\VBCSCompiler.exe.config
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\Antlr3.Runtime.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\EntityFramework.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\EntityFramework.SqlServer.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\Microsoft.Web.Infrastructure.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\Newtonsoft.Json.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.Helpers.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.Mvc.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.Optimization.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.Razor.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.WebPages.Deployment.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.WebPages.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.WebPages.Razor.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\WebGrease.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\EntityFramework.xml
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\EntityFramework.SqlServer.xml
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.Helpers.xml
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.Mvc.xml
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.Optimization.xml
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.Razor.xml
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.WebPages.xml
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.WebPages.Deployment.xml
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\System.Web.WebPages.Razor.xml
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\Newtonsoft.Json.xml
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\Antlr3.Runtime.pdb
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\ru\System.Web.Helpers.resources.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\ru\System.Web.Mvc.resources.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\ru\System.Web.Optimization.resources.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\ru\System.Web.Razor.resources.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\ru\System.Web.WebPages.resources.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\obj\Debug\Laba7.csprojAssemblyReference.cache
+D:\Учеба\РИС\Димасу\Laba7\Laba7\obj\Debug\Laba7.csproj.CoreCompileInputs.cache
+D:\Учеба\РИС\Димасу\Laba7\Laba7\obj\Debug\Laba7.csproj.CopyComplete
+D:\Учеба\РИС\Димасу\Laba7\Laba7\obj\Debug\Laba7.dll
+D:\Учеба\РИС\Димасу\Laba7\Laba7\obj\Debug\Laba7.pdb
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\Laba7.dll.config
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\Laba7.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\Laba7.pdb
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\csc.exe
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\csc.exe.config
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\csc.rsp
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\csi.exe
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\csi.exe.config
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\csi.rsp
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\Microsoft.Managed.Core.targets
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.AppContext.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Collections.Immutable.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Console.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Globalization.Calendars.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.IO.Compression.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.IO.FileSystem.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Net.Http.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Net.Sockets.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Reflection.Metadata.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.ValueTuple.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Xml.XPath.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\vbc.exe
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\vbc.exe.config
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\vbc.rsp
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\VBCSCompiler.exe
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\roslyn\VBCSCompiler.exe.config
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\Antlr3.Runtime.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\EntityFramework.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\EntityFramework.SqlServer.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\Microsoft.Web.Infrastructure.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\Newtonsoft.Json.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.Helpers.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.Mvc.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.Optimization.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.Razor.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.WebPages.Deployment.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.WebPages.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.WebPages.Razor.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\WebGrease.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\EntityFramework.xml
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\EntityFramework.SqlServer.xml
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.Helpers.xml
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.Mvc.xml
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.Optimization.xml
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.Razor.xml
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.WebPages.xml
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.WebPages.Deployment.xml
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\System.Web.WebPages.Razor.xml
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\Newtonsoft.Json.xml
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\Antlr3.Runtime.pdb
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\ru\System.Web.Helpers.resources.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\ru\System.Web.Mvc.resources.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\ru\System.Web.Optimization.resources.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\ru\System.Web.Razor.resources.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\ru\System.Web.WebPages.resources.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\ru\System.Web.WebPages.Deployment.resources.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\bin\ru\System.Web.WebPages.Razor.resources.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\obj\Debug\Laba7.csprojAssemblyReference.cache
+E:\Лабы\7 сем\рис\Laba7\Laba7\obj\Debug\Laba7.csproj.CoreCompileInputs.cache
+E:\Лабы\7 сем\рис\Laba7\Laba7\obj\Debug\Laba7.csproj.CopyComplete
+E:\Лабы\7 сем\рис\Laba7\Laba7\obj\Debug\Laba7.dll
+E:\Лабы\7 сем\рис\Laba7\Laba7\obj\Debug\Laba7.pdb
